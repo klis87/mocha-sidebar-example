@@ -1,0 +1,4 @@
+{
+    "eslint.enable": false,
+    "mocha.files.glob": "src/**/*.spec.js"
+}
